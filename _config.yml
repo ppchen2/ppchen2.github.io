@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            CPP's Blog
 tagline:          'A Jekyll theme'
 description:      ''
-url:              www.ppchen.github.io
-baseurl:          'www.ppchen.github.io'
+url:              https://ppchen2.github.io/blog/
+baseurl:          'https://ppchen2.github.io/blog/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -16,7 +16,7 @@ baseurl:          'www.ppchen.github.io'
 
 author:
   name:           'ppchen'
-  url:            www.ppchen.github.io
+  url:            https://ppchen2.github.io/blog/
 
 paginate:         5
 # paginate_path:    '/page:num'
