@@ -15,8 +15,8 @@ baseurl:          'www.ppchen.github.io'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'ppchen'
+  url:            www.ppchen.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
