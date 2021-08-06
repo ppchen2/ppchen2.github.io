@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: CPP's Blog                          # the main title
 
-tagline: CPP's Blog   # it will display as the sub-title
+tagline:   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
